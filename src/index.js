@@ -12,13 +12,12 @@ import {
 
 library.add(
   faBars,
-
   faSpinner,
   faTimes,
   faShareAlt,
   faInfo,
   faSearch,
-  faLongArrowAltRight
+  faLongArrowAltRight,
 )
 
 ReactDOM.render(

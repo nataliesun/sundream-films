@@ -1,7 +1,10 @@
+@import '../../assets/variables/variables.scss';
+
 .PackagesSection {
   height: 40vh;
   background-image: url('../../assets/bouquet.jpg');
   background-size: 100% auto;
+  background-repeat: no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -11,3 +14,14 @@
     font-size: 3em;
   }
 }
+h4 {
+  margin-top: 1.8em;
+  font-family: $main-font;
+    font-size: .93em;
+}
+li {
+  font-family: $main-font;
+    font-size: .93em;
+        line-height: 1.6em;
+}
+
