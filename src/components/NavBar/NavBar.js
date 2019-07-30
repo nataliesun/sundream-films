@@ -10,7 +10,7 @@ class NavBar extends Component {
     return (
       <nav className="NavBar">
         <NavLink to="/">
-          <h1>Sundream Films</h1>
+          <h2>Sundream Films</h2>
         </NavLink>
         <ul>
           <NavLink exact to="/">

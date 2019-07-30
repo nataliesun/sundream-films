@@ -7,16 +7,18 @@ import App from './components/App/App';
 import * as serviceWorker from './serviceWorker';
 
 import {
-  faBars, faTint, faSpinner, faChalkboard, faCodeBranch, faTimes,
+  faBars, faSpinner, faTimes, faShareAlt, faInfo, faSearch, faLongArrowAltRight,
 } from '@fortawesome/free-solid-svg-icons';
 
 library.add(
   faBars,
-  faTint,
+
   faSpinner,
-  faChalkboard,
-  faCodeBranch,
-  faTimes
+  faTimes,
+  faShareAlt,
+  faInfo,
+  faSearch,
+  faLongArrowAltRight
 )
 
 ReactDOM.render(

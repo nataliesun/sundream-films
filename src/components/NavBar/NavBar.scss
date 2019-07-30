@@ -4,7 +4,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 3vh 2%;
+  padding: 3vh 2vw;
   a {
     color: $main-font-color;
     text-decoration: none;
@@ -12,7 +12,7 @@
       cursor: pointer;
     }
   }
-  h1 {
+  h2 {
     font-size: 1.4em;
   }
   ul {

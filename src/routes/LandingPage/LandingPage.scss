@@ -1,0 +1,32 @@
+.LandingPage {
+  padding-bottom: 2vh;
+  h1 {
+    margin-top: 10vh;
+    font-size: 4em;
+  }
+  p {
+    margin-top: 2.6em;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.2em;
+  }
+  h3 {
+    margin-top: 2.6em;
+  }
+  .about-me p {
+    font-family: 'Futura LT Light', sans-serif;
+    font-size: .93em;
+    letter-spacing: 1px;
+    line-height: 1.6em;
+    margin-top: 2.6em 0;
+    padding: 0 2vw;
+    &:last-child {
+      margin: 2em;
+    }
+  }
+  .contact-btn {
+    padding: .6em 1.3em;
+    border: 1px solid black;
+    font-family: 'Futura Lt Light';
+    font-size: 1em;
+  }
+}
