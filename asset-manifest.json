@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sundream-films/static/css/main.72fd1637.chunk.css",
+    "main.js": "/sundream-films/static/js/main.4585b71e.chunk.js",
+    "main.js.map": "/sundream-films/static/js/main.4585b71e.chunk.js.map",
+    "runtime~main.js": "/sundream-films/static/js/runtime~main.b0b58c61.js",
+    "runtime~main.js.map": "/sundream-films/static/js/runtime~main.b0b58c61.js.map",
+    "static/js/2.0713c469.chunk.js": "/sundream-films/static/js/2.0713c469.chunk.js",
+    "static/js/2.0713c469.chunk.js.map": "/sundream-films/static/js/2.0713c469.chunk.js.map",
+    "index.html": "/sundream-films/index.html",
+    "precache-manifest.d19f91e86394b52f89dbfd670330fb3c.js": "/sundream-films/precache-manifest.d19f91e86394b52f89dbfd670330fb3c.js",
+    "service-worker.js": "/sundream-films/service-worker.js",
+    "static/css/main.72fd1637.chunk.css.map": "/sundream-films/static/css/main.72fd1637.chunk.css.map",
+    "static/media/style.css": "/sundream-films/static/media/FuturaLT.cba022b0.woff",
+    "static/media/PackagesSection.scss": "/sundream-films/static/media/bouquet.a20d0e65.jpg"
+  }
+}
