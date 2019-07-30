@@ -1,0 +1,13 @@
+.PackagesSection {
+  height: 40vh;
+  background-image: url('../../assets/bouquet.jpg');
+  background-size: 100% auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+  h2 {
+    font-size: 3em;
+  }
+}
